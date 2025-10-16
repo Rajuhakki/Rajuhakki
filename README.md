@@ -1,3 +1,7 @@
+ <div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Raju+Hakki+%F0%9F%91%8B.;Computer+Science+Engineer.;Full+Stack+Developer.;MERN+Stack+Developer.;" alt="Headline"/>
+    </div>
+
 # 💫 About Me:
 I’m currently working on New projects with my own Ideas.<br>🌱 I’m currently learning Java for DSA, Full-Stack Developer.<br>💬 Ask me about productivity tools, project ideas.<br>📫 How to reach me rajuhakki21@gmail.com
 
