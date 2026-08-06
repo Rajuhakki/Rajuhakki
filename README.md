@@ -3,7 +3,7 @@
     </div>
 
 # 💫 About Me:
-I’m currently working on New projects with my own Ideas.<br>🌱 I’m currently learning Java for DSA, Full-Stack Developer.<br>💬 Ask me about productivity tools, project ideas.<br>📫 How to reach me rajuhakki21@gmail.com
+I’m currently working on New projects with my own Ideas.<br>🌱 I’m currently learning Python, Full-Stack Developer.<br>💬 Ask me about productivity tools, project ideas.<br>📫 How to reach me rajuhakki21@gmail.com
 
 
 ## 🌐 Socials:
